@@ -1,0 +1,12 @@
+package local:demo;
+world demo {
+    record stats {
+        total: u32,
+        count: u32,
+    }
+    export count-x: func(text: string) -> stats;
+    export greet: func(name: string);
+    import host: interface {
+        print: func(msg: string);
+    }
+}
