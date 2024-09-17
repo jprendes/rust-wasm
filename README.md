@@ -7,8 +7,8 @@ We will cover 3 main approaches:
 3. [with WebAssembly Components](./component.md)
 
 Then we will also explore options for posix emulation:
-1. Using the emscripten ABI
-2. Using the WASI preview 2 shim
+1. Using [emscripten](./emscripten.md)
+2. Using [WASI preview 2](./wasip2.md)
 
 ## Setup
 

@@ -136,4 +136,4 @@ and now we can run `serve` and direct our browser to http://localhost:8000.
 
 ## Further reading
 
-`wasm-bindgen` provides a plethora of features, check them out [here](https://rustwasm.github.io/wasm-bindgen/).
+`wasm-bindgen` provides a plethora of features, check them out [the documentation](https://rustwasm.github.io/wasm-bindgen/).

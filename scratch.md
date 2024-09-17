@@ -66,7 +66,7 @@ which prints
 21 + 21 = 42
 ```
 
-# Using string
+## Using string
 
 Lets now add a function to count the number of `x` characters in a string
 ```rust

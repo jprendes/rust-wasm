@@ -184,6 +184,6 @@ and now we can run `serve` and direct our browser to http://localhost:8000.
 
 ## Further reading
 
-You can read more about `wit` [here](https://component-model.bytecodealliance.org/design/wit.html).
+You can read more about `wit` in the [design document](https://component-model.bytecodealliance.org/design/wit.html).
 
-You can read more about `jco` [here](https://bytecodealliance.github.io/jco/introduction.html).
+You can read more about `jco` in the [documentation](https://bytecodealliance.github.io/jco/introduction.html).
