@@ -1,0 +1,6 @@
+[target.wasm32-unknown-emscripten]
+rustflags = [
+    "-Clink-args=-sEXPORT_ES6",
+    "-Clink-args=-sENVIRONMENT=web",
+    "-Clink-args=-sEXPORTED_RUNTIME_METHODS=cwrap,FS",
+]
