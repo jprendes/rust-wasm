@@ -4,11 +4,11 @@ This guide will show you how to run Rust in the browser and in Node.js using Web
 We will cover 3 main approaches:
 1. [from scratch](./scratch.md)
 2. [with `wasm-bindgen`](./wasm-bindgen.md)
-3. [with WebAssembly Components](./component.md)
+3. [with _WebAssembly Components_](./component.md)
 
 Then we will also explore options for posix emulation:
-1. Using [emscripten](./emscripten.md)
-2. Using [WASI preview 2](./wasip2.md)
+1. [with `emscripten`](./emscripten.md)
+2. [with _WASI preview 2_](./wasip2.md)
 
 ## Setup
 

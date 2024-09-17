@@ -1,0 +1,5 @@
+package local:demo;
+world demo {
+    export greet: func(name: string);
+    export list-dir: func(name: string);
+}

@@ -86,7 +86,7 @@ jco transpile ./demo.wasm --out-dir ./wasm/ --instantiation
 
 ## Running it
 
-To run our code we create a `demo.js` file and import the `instantiate` function from the generated bindings
+To run our code we create a `main.js` file and import the `instantiate` function from the generated bindings
 ```js
 import { instantiate } from "./wasm/demo.js";
 ```
